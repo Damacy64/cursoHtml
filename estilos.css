@@ -1,0 +1,23 @@
+img{
+    width: 50%;
+    height: 50%;
+}
+video{
+    width: 50%;
+    height: 50%;
+}
+body{
+    background-color: #cccccc;
+}
+li{
+    display: inline;
+    padding: 2px;
+    margin: 2px;
+    
+}
+a{
+    color: white;
+}
+header{
+    background-color: tomato;
+}
